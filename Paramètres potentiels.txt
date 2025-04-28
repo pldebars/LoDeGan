@@ -1,0 +1,8 @@
+- Degré de confiance
+
+- Précision valeurs et erreurs
+
+
+- Expliquer comment marche le plot et la ROI interactive
+
+- Expliquer comment fonctionne les erreurs

@@ -1,0 +1,16 @@
+Le code que je suis entrain d'écrire contiendra plusieurs sous-code :
+
+- Un main, qui contiendra principalement une interface utilisateur. Ce dernier pourra choisir les analyses qu'il souhaite effectuer. Le main appelera les différentes fonctions selon ses choix.
+
+- Un fichier qui reprendra les définitions des différentes fonctions d'analyse. Ces dernières pourront être appelées dans le main.
+
+- Un fichier moulinette (Moulinette_n42), qui permet de transformer les données du fichier .n42 en un format plus digeste et facilement utilisable (.txt par exemple).
+
+Le fonctionnement Moulinette_n42 doit être bien réfléchi. 
+
+Moulinette est un code complet.
+
+
+
+
+

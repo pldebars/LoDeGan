@@ -1,0 +1,63 @@
+- Nom du fichier n42 à lire 
+
+- Beaux graphes ok 
+
+- Information sur le run (calib ou non, digitizer type et version, temps d'acquisition, temps réel, ... ok
+
+- Path du fichier ! 
+
+- Calcul de la résolution d'un pic !!!! ok
+
+- Choix interactif d'une ROI ok
+
+- Calcul du bruit de fond ok
+
+- Estimation de l'erreur ok 
+
+- Calcul de l'activité d'un pic ok 
+
+- Calcul de l'activité minimale détectable ok 
+
+- Détection de pics ok
+
+- Interface utilisateur ok
+
+- Analyse de plusieurs graphes ensemble
+
+- Séparation des différentes analyses en fonctions qui seront appelées par un code principal qui gère l'interface utilisateur, lit le fichier et en donne les informations principales. ok 
+
+- Faire dépendre les différentes fonctions du degré d'incertitude (Ld, MDA, etc.)
+
+- Vérification de toutes les unités des arguments des différentes fonctions dans les modules. Que ça soit bien cohérent avec le fichier principal où il est demandé à l'utilisateur d'entrer les différentes infos.
+
+- Erreur sur efficacité de détection et activité ok 
+
+- Créer une version commenté du code
+
+- Créer une version non commentée
+
+- Traduire en anglais
+
+- Moulinette ok 
+
+- Simplifier le code en fonction afin d'éviter de répéter les choses dans le code. Exemple :
+
+	- fonction print qui répète un message ok
+	- fonction lecture de fichier n.42 ok
+	- fonction qui répète les tests  ok
+	
+- ROI avec affiché les canaux limites afin de calculer une moyenne de nombre de coups
+
+- Eviter le plantage du programme lorsqu'on ne définit pas de ROI ok 
+
+- Se renseigner si on ne peut pas généraliser le format des prints ok
+
+- Modifier Moulinette ok 
+
+- Calibration manuelle 
+
+- Détection de pic : centroïde 
+
+- Implémenter FWHM avec centroïdes
+
+- Test de PeakUtils
