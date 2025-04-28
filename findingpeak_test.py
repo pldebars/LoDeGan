@@ -10,7 +10,6 @@ from Spectro import detectionLimit, detectionEfficiency, minimumDetectableActivi
 from scipy.signal import chirp, find_peaks, peak_widths
 
 ## INTRODUCTION DU CODE ##
-#Test push
 
 print(colored('\nWELCOME!','red',attrs=['bold']))
 print(colored('Written by Dr. C. Stasser in 2024','red',attrs=['bold']))
