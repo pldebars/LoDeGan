@@ -7,7 +7,7 @@ from termcolor import colored
 
 def Readn42(name):
 
-    path = r"C:\Users\pldebars\OneDrive - Université de Namur\Documents\Python Scripts\LoDeGaN"
+    path = r"C:\Users\pldebars\OneDrive - Université de Namur\Documents\programmation\Python Scripts\LoDeGaN"
     #path = r"E:\LoDeGaN\Compass\Traitement\Python\LoDeGaN"
     pathAndName = path + "\\" + name + ".N42"
     #print(pathAndName)

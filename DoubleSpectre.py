@@ -11,9 +11,9 @@ import mplcursors
 import pandas as pd
 
 
-dom1 = Readn42("CH1@DT5724B_1274_EspectrumR_run_in_20250417_095804")
-dom2 = Readn42("CH2@DT5724B_1274_EspectrumR_run_in_20250417_095804")
-dom3 = Readn42("CH1@DT5724B_1274_EspectrumR_run_out_1_20250413_155445")
+dom1 = Readn42("CH1@DT5724B_1274_Espectrum_run_6_HPGe_IN_20250605_170137")
+dom2 = Readn42("CH2@DT5724B_1274_Espectrum_run_6_HPGe_IN_20250605_170137")
+dom3 = Readn42("CH2@DT5724B_1274_Espectrum_run_8_HPGe_OUT_20250608_162340")
 
 ## Sortir les coefficients de la calibration :
 
